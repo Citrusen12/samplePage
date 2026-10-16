@@ -1,4 +1,3 @@
-
 html, body {
     min-height: 100vh; 
     
@@ -9,7 +8,6 @@ body {
     flex-direction: column;
     font-family: sans-serif;
 }
-
 
 .gradient {
     background: linear-gradient(to bottom, #ffffff 0%, #d9deea 100%);
@@ -51,9 +49,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-
-
-
 
 .input-group input[type="text"],
 .input-group input[type="password"] {
